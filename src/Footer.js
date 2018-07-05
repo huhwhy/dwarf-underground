@@ -1,4 +1,4 @@
-from React import "react"
+from React import 'react'
 
 
 const Footer = () => {

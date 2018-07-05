@@ -1,7 +1,7 @@
-import React from "react"
-import Small from "./Small"
-import Small6 from "./Small6"
-import Footer from "./Footer"
+import React from 'react'
+import Small from './Small'
+import Small6 from './Small6'
+import Footer from './Footer'
 
 
 

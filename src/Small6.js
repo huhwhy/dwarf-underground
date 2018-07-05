@@ -1,4 +1,4 @@
-import React as "react"
+import React as 'react'
 
 
 const Small6 = () => {
